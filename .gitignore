@@ -104,3 +104,4 @@ dist
 .tern-port
 
 ./testPatch.js
+./initData.js
