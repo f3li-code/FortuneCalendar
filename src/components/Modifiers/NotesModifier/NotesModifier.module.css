@@ -1,0 +1,22 @@
+.Title {
+    margin: 0;
+    padding: 20px 0;
+}
+
+.InputBlock {
+    display: block;
+    width: 50%;
+    margin: 5px auto;
+    text-align: left;
+    font-size: small;
+    font-weight: bold;
+}
+
+.Input {
+    margin: 10px 0;
+    height: 50px;
+}
+
+.Controls {
+    padding: 30px 0;
+}

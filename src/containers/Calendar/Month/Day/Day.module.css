@@ -1,0 +1,22 @@
+.Day {
+    display: inline-block;
+    margin: 12px; 
+    border: 1px solid black;
+    box-shadow: 2px 3px 2px black;
+    padding: 6px;
+    width: 11%;
+    box-sizing: border-box;
+    font-size: x-small;
+}
+
+@media (max-width: 500px) {
+    .Day {
+        width: 25%;
+        font-size: xx-small;
+    }
+}
+
+.NotInCurrMonth {
+    background-color: #ccc;
+    cursor: not-allowed;
+}

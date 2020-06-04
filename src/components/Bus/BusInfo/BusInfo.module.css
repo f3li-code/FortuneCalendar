@@ -1,0 +1,37 @@
+.BusInfo {
+    display: inline-block;
+    margin: 0;
+    padding: 2px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.BusNum {
+    width: 30%;
+    background-color: orange;
+    font-weight: bold;
+}
+.BusNum:hover {
+    background-color: darkorange;
+    cursor: pointer;
+}
+
+.Driver {
+    width: 70%;
+}
+
+.Customer {
+    width: 100%;
+}
+
+.Route {
+    width: 100%;
+}
+
+.Type {
+    width: 100%;
+}
+
+.Unfilled {
+    background-color: salmon;
+}

@@ -1,0 +1,13 @@
+.NavItem {
+    margin: 2px;
+    text-decoration: none;
+    color: black;
+    font-size: initial;
+    /* background-color: darkorange; */
+    /* box-shadow: 1px 2px 1px darkorange; */
+}
+
+.NavItem:hover,
+.NavItem:active {
+    font-weight: bold;
+}
